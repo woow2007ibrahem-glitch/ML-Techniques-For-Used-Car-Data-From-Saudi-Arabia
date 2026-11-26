@@ -12,6 +12,7 @@ Saudi Arabian used car market.
 - python version: from 3.8.0 up to 3.12.0
 - IDE: Google Colab / vscode / Jupiter notebook
 - Dataset: https://www.kaggle.com/datasets/turkibintalib/saudi-arabia-used-cars-dataset
+- libraries: Pandas / Numpy / scikit-learn / joblib, use the following: (pip install pandas numpy scikit-learn joblib)
 
 # Team Members
 - [Leader] Ibrahem Arif
